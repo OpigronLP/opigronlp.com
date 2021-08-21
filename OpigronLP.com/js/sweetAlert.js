@@ -1,0 +1,1 @@
+alert('Bienvenidos a todos ustedes aquí aprenderás muchas cosas de las tecnologías de las materias que hacemos, Espero que las disfrutes mucho y aprendas muy bien =)')
